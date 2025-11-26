@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medi-front/static/css/main.d8c14067.css",
+    "main.js": "/medi-front/static/js/main.a767d9d3.js",
+    "index.html": "/medi-front/index.html",
+    "main.d8c14067.css.map": "/medi-front/static/css/main.d8c14067.css.map",
+    "main.a767d9d3.js.map": "/medi-front/static/js/main.a767d9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c14067.css",
+    "static/js/main.a767d9d3.js"
+  ]
+}
