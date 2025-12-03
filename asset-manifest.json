@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/medi-front/static/css/main.8090559f.css",
-    "main.js": "/medi-front/static/js/main.91acc990.js",
+    "main.js": "/medi-front/static/js/main.d3b5f8a5.js",
     "index.html": "/medi-front/index.html",
     "main.8090559f.css.map": "/medi-front/static/css/main.8090559f.css.map",
-    "main.91acc990.js.map": "/medi-front/static/js/main.91acc990.js.map"
+    "main.d3b5f8a5.js.map": "/medi-front/static/js/main.d3b5f8a5.js.map"
   },
   "entrypoints": [
     "static/css/main.8090559f.css",
-    "static/js/main.91acc990.js"
+    "static/js/main.d3b5f8a5.js"
   ]
 }
